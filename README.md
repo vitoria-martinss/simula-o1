@@ -14,5 +14,5 @@ Aqui vocês podem colocar o público, ou melhor, para quem é o produto é direc
 Aqui vocês podem colocar os objetivos.
 
 - Objetivo 1
-- objetivo 2
+- Objetivo 2
 - Objetivo 3
